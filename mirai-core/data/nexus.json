@@ -1,0 +1,45 @@
+{
+  "nodes": {
+    "18968dff": {
+      "id": "18968dff",
+      "type": "project",
+      "name": "Mugen",
+      "properties": {
+        "status": "active"
+      },
+      "created_at": "2026-06-11T19:28:06.696736",
+      "updated_at": "2026-06-11T19:28:06.696736"
+    },
+    "b329eb1f": {
+      "id": "b329eb1f",
+      "type": "note",
+      "name": "Mugen",
+      "properties": {
+        "description": "Design Studio"
+      },
+      "created_at": "2026-06-12T09:34:02.142322",
+      "updated_at": "2026-06-12T09:34:02.142322"
+    },
+    "e01f082a": {
+      "id": "e01f082a",
+      "type": "thought",
+      "name": "Ray remember Mirai is my design studio",
+      "properties": {
+        "source": "echo"
+      },
+      "created_at": "2026-06-12T10:50:41.924445",
+      "updated_at": "2026-06-12T10:50:41.924445"
+    },
+    "757b8741": {
+      "id": "757b8741",
+      "type": "thought",
+      "name": "test message",
+      "properties": {
+        "source": "echo"
+      },
+      "created_at": "2026-06-15T11:00:55.522974",
+      "updated_at": "2026-06-15T11:00:55.522974"
+    }
+  },
+  "edges": []
+}
