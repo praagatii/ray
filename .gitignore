@@ -1,26 +1,23 @@
-*.apk
-*.ap_
-*.aab
-*.dex
-*.class
-*.iml
-local.properties
-.gradle/
-build/
-/app/build/
-captures/
-.externalNativeBuild/
-.cxx/
-*.log
-*.hprof
-.DS_Store
-Thumbs.db
-*.swp
-*.swo
-.idea/
-*.pyc
+# Python
 __pycache__/
+*.py[cod]
 *.egg-info/
 dist/
-*.db
-/node_modules/
+build/
+*.egg
+*.log
+.env
+
+# Android
+app/build/
+local.properties
+.idea/
+.gradle/
+.kotlin/
+
+# Memory storage
+ray/memory/storage/
+
+# OS
+.DS_Store
+Thumbs.db
